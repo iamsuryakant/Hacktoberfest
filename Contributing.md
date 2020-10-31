@@ -44,7 +44,7 @@ Website - <https://hacktoberfest.digitalocean.com/>
 
 5. ### Join Discord Server
    
-   [Click Here To Join](https://discord.gg/HedjRMV) the discord server for interacting with reviewers and maintainers to know more about Contributing Guidelines and for help regarding this repo and open source in general.
+   [Click Here To Join](https://discord.com/invite/hacktoberfest) the discord server for interacting with reviewers and maintainers to know more about Contributing Guidelines and for help regarding this repo and open source in general.
    
    The Discord Server helps you interact with fellow developers and makes you a part of the community. Be sure to Join. 
 
