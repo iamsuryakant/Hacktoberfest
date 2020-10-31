@@ -35,6 +35,9 @@ Any pull request made to a public repo on GitHub will count. The pull request mu
 
 You can contribute to any open source project hosted on Github.com and contribute anything between October 1 to October 31 midnight in 2020. You will find plenty of issues labeled with hacktoberfest or good-first-issue etc on Github. These will be the simple ones most probably and easy to fix.
 
+#### Your Contributions would be counted towards Hacktoberfest if it has been approved or merged or has a "hacktoberfest-accepted" label. It is not mandatory to have all 3 on a particular PR.
+![image](https://user-images.githubusercontent.com/53433312/95441866-49929200-0978-11eb-9fcb-adf3c935adba.png)
+#### Don't add something if its already there in the same programming language. Try to add quality content. Your PRs won't be merged, if you are spamming with invalid PRs.
 
 ---
 ## References
